@@ -1,3 +1,3 @@
-# YHCTheme
+# Full Screen Theme
 
-YHCTheme
+full-screen-theme
